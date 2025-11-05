@@ -31,11 +31,5 @@ If using the backend
 npm install
 npm run dev`
 
-📁 Folder Structure
-filer/
-├── client/       # React + Tailwind frontend (Create React App)
-├── server/       # Node.js backend (optional)
-├── public/
-└── README.md
 
 
